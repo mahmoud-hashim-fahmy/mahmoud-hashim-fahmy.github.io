@@ -44,41 +44,56 @@ cv:
           - 'Comprehensive training on Cisco Certified Network Associate (CCNA) curriculum, covering network architecture, routing, LAN switching, and fundamental cybersecurity protocols.'
 
     Certificates:
-      - name: "[C++ Programming Professional Certificate](https://www.linkedin.com/learning/certificates/4d61def5834ca6e99cd23d20af90223f68c34891b51b8d6d3b0c859b8363c232/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BqQ1MOfoqTp2AkzjT7OKl5Q%3D%3D)"
-        details: OpenEDG C++ Institute
+      - name: C++ Programming Professional Certificate
         date: "2026-03"
-      - name: "[Software Engineer](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.hackerrank.com%2Fcertificates%2F7fb1d4d23964&urlhash=UzOj&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BqQ1MOfoqTp2AkzjT7OKl5Q%3D%3D)"
-        details: HackerRank
+        url: "https://www.linkedin.com/learning/certificates/4d61def5834ca6e99cd23d20af90223f68c34891b51b8d6d3b0c859b8363c232/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BqQ1MOfoqTp2AkzjT7OKl5Q%3D%3D"
+        highlights:
+          - "Issuer: OpenEDG C++ Institute"
+
+      - name: Software Engineer
         date: "2026-03"
-      - name: "[Problem Solving (Intermediate)](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.hackerrank.com%2Fcertificates%2F53eaec26b348&urlhash=L4FW&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BqQ1MOfoqTp2AkzjT7OKl5Q%3D%3D)"
-        details: HackerRank
+        url: "https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.hackerrank.com%2Fcertificates%2F7fb1d4d23964&urlhash=UzOj&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BqQ1MOfoqTp2AkzjT7OKl5Q%3D%3D"
+        highlights:
+          - "Issuer: HackerRank"
+
+      - name: Problem Solving (Intermediate)
         date: "2026-03"
-      - name: "[Career Essentials in Software Development](https://www.linkedin.com/learning/certificates/14cbfecf4180d33d972d149baf9f3466e8bdadfdd888403647b4b45516b0c087/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BqQ1MOfoqTp2AkzjT7OKl5Q%3D%3D)"
-        details: Microsoft
+        url: "https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.hackerrank.com%2Fcertificates%2F53eaec26b348&urlhash=L4FW&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BqQ1MOfoqTp2AkzjT7OKl5Q%3D%3D"
+        highlights:
+          - "Issuer: HackerRank"
+
+      - name: Career Essentials in Software Development
         date: "2026-03"
-      - name: "[Ethical Hacker](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.credly.com%2Fbadges%2F296d4434-ef55-483c-b283-f06022300508%2Flinked_in_profile&urlhash=mgl9&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BqQ1MOfoqTp2AkzjT7OKl5Q%3D%3D)"
-        details: Cisco
+        url: "https://www.linkedin.com/learning/certificates/14cbfecf4180d33d972d149baf9f3466e8bdadfdd888403647b4b45516b0c087/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BqQ1MOfoqTp2AkzjT7OKl5Q%3D%3D"
+        highlights:
+          - "Issuer: Microsoft"
+
+      - name: Ethical Hacker
         start_date: "2026-02"
         end_date: "2026-03"
+        url: "https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.credly.com%2Fbadges%2F296d4434-ef55-483c-b283-f06022300508%2Flinked_in_profile&urlhash=mgl9&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BqQ1MOfoqTp2AkzjT7OKl5Q%3D%3D"
+        highlights:
+          - "Issuer: Cisco"
 
     Skills:
-      - label: Programming & Web
-        name: Programming & Web
-        details: C++, HTML, CSS, APIs, Object-Oriented Programming (OOP), Data Structures, Algorithms, Problem Solving, Parallel Programming
-      - label: DevOps & Cloud
-        name: DevOps & Cloud
-        details: Docker & Containerization, CI/CD, Microsoft Azure (Cloud Computing), Linux
-      - label: Networking & Security
-        name: Networking & Security
-        details: Computer Networking, LAN Switching & Routing, IPv4 & IPv6 Addressing, Cybersecurity & Ethical Hacking, IoT Security
-      - label: Other
-        name: Other
-        details: Software Development, Software Project Management, Technical Writing
+      - name: Programming & Web
+        highlights:
+          - "C++, HTML, CSS, APIs, Object-Oriented Programming (OOP), Data Structures, Algorithms, Problem Solving, Parallel Programming"
+      - name: DevOps & Cloud
+        highlights:
+          - "Docker & Containerization, CI/CD, Microsoft Azure (Cloud Computing), Linux"
+      - name: Networking & Security
+        highlights:
+          - "Computer Networking, LAN Switching & Routing, IPv4 & IPv6 Addressing, Cybersecurity & Ethical Hacking, IoT Security"
+      - name: Other
+        highlights:
+          - "Software Development, Software Project Management, Technical Writing"
 
     Languages:
-      - label: Arabic
-        name: Arabic
-        details: Native
-      - label: English
-        name: English
-        details: "C1 Advanced - [Certificated by EF SET English](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fcert.efset.org%2FyDmz8s&urlhash=dW5M&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BqQ1MOfoqTp2AkzjT7OKl5Q%3D%3D), Mar 2026"
+      - name: Arabic
+        highlights:
+          - "Native"
+      - name: English
+        url: "https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fcert.efset.org%2FyDmz8s&urlhash=dW5M&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BqQ1MOfoqTp2AkzjT7OKl5Q%3D%3D"
+        highlights:
+          - "C1 Advanced - Certificated by EF SET English, Mar 2026"
