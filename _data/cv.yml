@@ -10,9 +10,6 @@ cv:
     - network: GitHub
       username: ma7m0ud_hashim
   sections:
-    Summary:
-      - "Dedicated Software Engineering student with a solid foundation in C++, Data Structures, Object-Oriented Programming (OOP), and Design Patterns. Certified by OpenEDG and HackerRank, with proven analytical and problem-solving capabilities. Highly self-motivated and adaptable, with a strong willingness to learn web platforms and new technologies quickly. Eager to bring my technical competence, C1 Advanced English communication skills, and collaborative spirit to Blink22 as a Software Engineer Intern."
-
     Experience:
       - company: Google
         position: Google Summer of Code (GSoC) Participant
@@ -74,37 +71,18 @@ cv:
         value: "Issuer: Microsoft"
 
       - name: Ethical Hacker
-        start_date: "2026-02"
-        end_date: "2026-03"
+        date: "2026-02"
         url: "https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.credly.com%2Fbadges%2F296d4434-ef55-483c-b283-f06022300508%2Flinked_in_profile&urlhash=mgl9&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BqQ1MOfoqTp2AkzjT7OKl5Q%3D%3D"
         location: "Cisco"
         details: "Issuer: Cisco"
         value: "Issuer: Cisco"
 
-    Skills:
-      - name: Programming & Web
-        label: Programming & Web
-        details: "C++, HTML, CSS, APIs, Object-Oriented Programming (OOP), Data Structures, Algorithms, Problem Solving, Parallel Programming"
-        value: "C++, HTML, CSS, APIs, Object-Oriented Programming (OOP), Data Structures, Algorithms, Problem Solving, Parallel Programming"
-        summary: "C++, HTML, CSS, APIs, Object-Oriented Programming (OOP), Data Structures, Algorithms, Problem Solving, Parallel Programming"
-
-      - name: DevOps & Cloud
-        label: DevOps & Cloud
-        details: "Docker & Containerization, CI/CD, Microsoft Azure (Cloud Computing), Linux"
-        value: "Docker & Containerization, CI/CD, Microsoft Azure (Cloud Computing), Linux"
-        summary: "Docker & Containerization, CI/CD, Microsoft Azure (Cloud Computing), Linux"
-
-      - name: Networking & Security
-        label: Networking & Security
-        details: "Computer Networking, LAN Switching & Routing, IPv4 & IPv6 Addressing, Cybersecurity & Ethical Hacking, IoT Security"
-        value: "Computer Networking, LAN Switching & Routing, IPv4 & IPv6 Addressing, Cybersecurity & Ethical Hacking, IoT Security"
-        summary: "Computer Networking, LAN Switching & Routing, IPv4 & IPv6 Addressing, Cybersecurity & Ethical Hacking, IoT Security"
-
-      - name: Other
-        label: Other
-        details: "Software Development, Software Project Management, Technical Writing"
-        value: "Software Development, Software Project Management, Technical Writing"
-        summary: "Software Development, Software Project Management, Technical Writing"
+      - name: English
+        date: "2025-03"
+        url: "https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fcert.efset.org%2FyDmz8s&urlhash=dW5M&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BqQ1MOfoqTp2AkzjT7OKl5Q%3D%3D"
+        location: "EF SET English"
+        details: "Issuer: EF SET English"
+        value: "Issuer: EF SET English"
 
     Languages:
       - name: Arabic
@@ -115,7 +93,6 @@ cv:
 
       - name: English
         label: English
-        details: "C1 Advanced - Certificated by EF SET English, Mar 2026"
-        value: "C1 Advanced - Certificated by EF SET English, Mar 2026"
-        summary: "C1 Advanced - Certificated by EF SET English, Mar 2026"
-        url: "https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fcert.efset.org%2FyDmz8s&urlhash=dW5M&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BqQ1MOfoqTp2AkzjT7OKl5Q%3D%3D"
+        details: "C1 Advanced"
+        value: "C1 Advanced"
+        summary: "C1 Advanced"
