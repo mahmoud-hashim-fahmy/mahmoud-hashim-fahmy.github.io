@@ -11,11 +11,12 @@ cv:
       username: ma7m0ud_hashim
   sections:
     Profile:
-      - Dedicated Software Engineering student with a solid foundation in C++, Data Structures, Object-Oriented Programming (OOP), and Design Patterns. Certified by OpenEDG and HackerRank, with proven analytical and problem-solving capabilities. Highly self-motivated and adaptable, with a strong willingness to learn web platforms and new technologies quickly. Eager to bring my technical competence, C1 Advanced English communication skills, and collaborative spirit to Blink22 as a Software Engineer Intern.
+      - "Dedicated Software Engineering student with a solid foundation in C++, Data Structures, Object-Oriented Programming (OOP), and Design Patterns. Certified by OpenEDG and HackerRank, with proven analytical and problem-solving capabilities. Highly self-motivated and adaptable, with a strong willingness to learn web platforms and new technologies quickly. Eager to bring my technical competence, C1 Advanced English communication skills, and collaborative spirit to Blink22 as a Software Engineer Intern."
 
     Experience:
       - company: Google
         position: Google Summer of Code (GSoC) Participant
+        date: "2025"
 
     Education:
       - institution: South Valley National University (SVNU)
@@ -54,17 +55,17 @@ cv:
         end_date: "2026-03"
 
     Skills:
-      - label: Programming & Web
+      - name: Programming & Web
         details: C++, HTML, CSS, APIs, Object-Oriented Programming (OOP), Data Structures, Algorithms, Problem Solving, Parallel Programming
-      - label: DevOps & Cloud
-        details: Docker & Containerization, Continuous Integration and Continuous Delivery (CI/CD), Microsoft Azure (Cloud Computing), Linux
-      - label: Networking & Security
+      - name: DevOps & Cloud
+        details: Docker & Containerization, CI/CD, Microsoft Azure (Cloud Computing), Linux
+      - name: Networking & Security
         details: Computer Networking, LAN Switching & Routing, IPv4 & IPv6 Addressing, Cybersecurity & Ethical Hacking, IoT Security
-      - label: Other
+      - name: Other
         details: Software Development, Software Project Management, Technical Writing
 
     Languages:
-      - label: Arabic
+      - name: Arabic
         details: Native
-      - label: English
+      - name: English
         details: C1 Advanced - Certificated by EF SET English, Mar 2026
