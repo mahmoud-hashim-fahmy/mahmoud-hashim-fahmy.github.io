@@ -1,145 +1,70 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Mahmoud Hashim Fahmy
-    - name: Professional Title
-      value: Software Engineering Student | Aspiring Web Developer
-    - name: Email
-      value: mahmoud.hashim.1st@gmail.com
-    - name: Phone
-      value: +201122323375
-    - name: Location
-      value: Qena, Egypt
+cv:
+  name: Mahmoud Hashim Fahmy
+  headline: Software Engineering Student | Aspiring Web Developer
+  email: mahmoud.hashim.1st@gmail.com
+  phone: "+201122323375"
+  location: Qena, Egypt
+  social_networks:
+    - network: LinkedIn
+      username: mahmoud_hashim_2
+    - network: GitHub
+      username: ma7m0ud_hashim
+  sections:
+    Profile:
+      - Dedicated Software Engineering student with a solid foundation in C++, Data Structures, Object-Oriented Programming (OOP), and Design Patterns. Certified by OpenEDG and HackerRank, with proven analytical and problem-solving capabilities. Highly self-motivated and adaptable, with a strong willingness to learn web platforms and new technologies quickly. Eager to bring my technical competence, C1 Advanced English communication skills, and collaborative spirit to Blink22 as a Software Engineer Intern.
 
-- title: Profile
-  type: info
-  contents:
-    - value: Dedicated Software Engineering student with a solid foundation in C++, Data Structures, Object-Oriented Programming (OOP), and Design Patterns. Certified by OpenEDG and HackerRank, with proven analytical and problem-solving capabilities. Highly self-motivated and adaptable, with a strong willingness to learn web platforms and new technologies quickly. Eager to bring my technical competence, C1 Advanced English communication skills, and collaborative spirit to Blink22 as a Software Engineer Intern.
+    Experience:
+      - company: Google
+        position: Google Summer of Code (GSoC) Participant
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Google Summer of Code (GSoC) Participant
-      institution: Google
-      year: Past
+    Education:
+      - institution: South Valley National University (SVNU)
+        location: Qena, Egypt
+        area: Bachelor of Science in Computer Science and AI
+        start_date: "2024-10"
+        end_date: present
+        highlights:
+          - 'Current Grade: Sophomore (Second Year).'
+          - 'Relevant Coursework: Object-Oriented Programming (OOP), Data Structures, Logic Design, Probability & Statistics, Design Patterns and Fundamentals of Computer Science.'
+      
+      - institution: National Telecommunication Institute (NTI)
+        location: Qena, Egypt
+        area: CCNA Professional Certification Training
+        start_date: "2026-02"
+        end_date: present
+        highlights:
+          - 'Comprehensive training on Cisco Certified Network Associate (CCNA) curriculum, covering network architecture, routing, LAN switching, and fundamental cybersecurity protocols.'
 
-- title: Education
-  type: time_table
-  contents:
-    - title: Bachelor of Science in Computer Science and AI
-      institution: South Valley National University (SVNU), Qena, Egypt
-      year: 10/2024 - Present
-      description:
-        - Current Grade: Sophomore (Second Year).
-        - Relevant Coursework: Object-Oriented Programming (OOP), Data Structures, Logic Design, Probability & Statistics, Design Patterns and Fundamentals of Computer Science.
-    - title: Professional Certification Training, CCNA
-      institution: National Telecommunication Institute (NTI), Qena, Egypt
-      year: 02/2026 - Present
-      description:
-        - Comprehensive training on Cisco Certified Network Associate (CCNA) curriculum, covering network architecture, routing, LAN switching, and fundamental cybersecurity protocols.
+    Certificates:
+      - name: C++ Programming Professional Certificate
+        details: OpenEDG C++ Institute
+        date: "2026-03"
+      - name: Software Engineer
+        details: HackerRank
+        date: "2026-03"
+      - name: Problem Solving (Intermediate)
+        details: HackerRank
+        date: "2026-03"
+      - name: Career Essentials in Software Development
+        details: Microsoft
+        date: "2026-03"
+      - name: Ethical Hacker
+        details: Cisco
+        start_date: "2026-02"
+        end_date: "2026-03"
 
-- title: Certificates
-  type: time_table
-  contents:
-    - title: C++ Programming Professional Certificate
-      institution: OpenEDG C++ Institute
-      year: Mar 2026
-    - title: Software Engineer
-      institution: HackerRank
-      year: Mar 2026
-    - title: Problem Solving (Intermediate)
-      institution: HackerRank
-      year: Mar 2026
-    - title: Career Essentials in Software Development
-      institution: Microsoft
-      year: Mar 2026
-    - title: Ethical Hacker
-      institution: Cisco
-      year: Feb 2026 - Mar 2026
+    Skills:
+      - label: Programming & Web
+        details: C++, HTML, CSS, APIs, Object-Oriented Programming (OOP), Data Structures, Algorithms, Problem Solving, Parallel Programming
+      - label: DevOps & Cloud
+        details: Docker & Containerization, Continuous Integration and Continuous Delivery (CI/CD), Microsoft Azure (Cloud Computing), Linux
+      - label: Networking & Security
+        details: Computer Networking, LAN Switching & Routing, IPv4 & IPv6 Addressing, Cybersecurity & Ethical Hacking, IoT Security
+      - label: Other
+        details: Software Development, Software Project Management, Technical Writing
 
-- title: Skills
-  type: list
-  contents:
-    - C++, HTML, CSS, APIs, Object-Oriented Programming (OOP), Data Structures, Algorithms, Problem Solving, Parallel Programming
-    - Docker & Containerization, Continuous Integration and Continuous Delivery (CI/CD), Microsoft Azure (Cloud Computing), Linux
-    - Computer Networking, LAN Switching & Routing, IPv4 & IPv6 Addressing, Cybersecurity & Ethical Hacking, IoT Security
-    - Software Development, Software Project Management, Technical Writing
-
-- title: Languages
-  type: list
-  contents:
-    - Arabic (Native)
-    - English (C1 Advanced - Certificated by EF SET English, Mar 2026)- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Mahmoud Hashim Fahmy
-    - name: Professional Title
-      value: Software Engineering Student | Aspiring Web Developer
-    - name: Email
-      value: mahmoud.hashim.1st@gmail.com
-    - name: Phone
-      value: +201122323375
-    - name: Location
-      value: Qena, Egypt
-
-- title: Profile
-  type: info
-  contents:
-    - value: Dedicated Software Engineering student with a solid foundation in C++, Data Structures, Object-Oriented Programming (OOP), and Design Patterns. Certified by OpenEDG and HackerRank, with proven analytical and problem-solving capabilities. Highly self-motivated and adaptable, with a strong willingness to learn web platforms and new technologies quickly. Eager to bring my technical competence, C1 Advanced English communication skills, and collaborative spirit to Blink22 as a Software Engineer Intern.
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Google Summer of Code (GSoC) Participant
-      institution: Google
-      year: Past
-
-- title: Education
-  type: time_table
-  contents:
-    - title: Bachelor of Science in Computer Science and AI
-      institution: South Valley National University (SVNU), Qena, Egypt
-      year: 10/2024 - Present
-      description:
-        - Current Grade: Sophomore (Second Year).
-        - Relevant Coursework: Object-Oriented Programming (OOP), Data Structures, Logic Design, Probability & Statistics, Design Patterns and Fundamentals of Computer Science.
-    - title: Professional Certification Training, CCNA
-      institution: National Telecommunication Institute (NTI), Qena, Egypt
-      year: 02/2026 - Present
-      description:
-        - Comprehensive training on Cisco Certified Network Associate (CCNA) curriculum, covering network architecture, routing, LAN switching, and fundamental cybersecurity protocols.
-
-- title: Certificates
-  type: time_table
-  contents:
-    - title: C++ Programming Professional Certificate
-      institution: OpenEDG C++ Institute
-      year: Mar 2026
-    - title: Software Engineer
-      institution: HackerRank
-      year: Mar 2026
-    - title: Problem Solving (Intermediate)
-      institution: HackerRank
-      year: Mar 2026
-    - title: Career Essentials in Software Development
-      institution: Microsoft
-      year: Mar 2026
-    - title: Ethical Hacker
-      institution: Cisco
-      year: Feb 2026 - Mar 2026
-
-- title: Skills
-  type: list
-  contents:
-    - <b>Programming & Web:</b> C++, HTML, CSS, APIs, Object-Oriented Programming (OOP), Data Structures, Algorithms, Parallel Programming.
-    - <b>DevOps & Cloud:</b> Docker & Containerization, CI/CD, Microsoft Azure (Cloud Computing), Linux.
-    - <b>Networking & Security:</b> Computer Networking, LAN Switching & Routing, IPv4 & IPv6 Addressing, Cybersecurity & Ethical Hacking, IoT Security.
-    - <b>Other:</b> Problem Solving, Software Development, Software Project Management, Technical Writing.
-
-- title: Languages
-  type: list
-  contents:
-    - Arabic (Native)
-    - English (C1 Advanced - Certificated by EF SET English, Mar 2026)
+    Languages:
+      - label: Arabic
+        details: Native
+      - label: English
+        details: C1 Advanced - Certificated by EF SET English, Mar 2026
