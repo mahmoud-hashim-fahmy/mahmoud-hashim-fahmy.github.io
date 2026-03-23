@@ -1,14 +1,10 @@
+# GitHub Users Stats
+# هنا سيقوم القالب بجلب إحصائيات حسابك بالكامل تلقائياً
 github_users:
-  - torvalds
-  - alshedivat
+  - mahmoud-hashim-fahmy
 
-repo_description_lines_max: 2
-
+# GitHub Repositories
+# هنا تضع المستودعات التي تريد إبرازها، وسيجلب القالب عدد النجوم واللغات المستخدمة فيها تلقائياً (Live Data)
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - mahmoud-hashim-fahmy/mahmoud-hashim-fahmy.github.io
+  # - mahmoud-hashim-fahmy/اسم-مستودع-آخر
