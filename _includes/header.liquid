@@ -37,8 +37,8 @@
         <span class="icon-bar bottom-bar"></span>
       </button>
 
-      <div class="collapse navbar-collapse text-right" id="navbarNav">
-        <ul class="navbar-nav ml-auto flex-nowrap">
+      <div class="collapse navbar-collapse text-center" id="navbarNav">
+        <ul class="navbar-nav mx-auto flex-nowrap">
           {% for page in site.pages %}
             {% if page.permalink == '/' %} {% assign about_title = page.title %} {% endif %}
           {% endfor %}
@@ -50,6 +50,10 @@
                 <span class="sr-only">(current)</span>
               {% endif %}
             </a>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" href="https://mahmoud-hashim-tech.hashnode.dev" target="_blank">blog</a>
           </li>
 
           {% assign sorted_pages = site.pages | sort: 'nav_order' %}
@@ -112,10 +116,6 @@
               {% endif %}
             {% endif %}
           {% endfor %}
-
-          <li class="nav-item">
-            <a class="nav-link" href="https://mahmoud-hashim-tech.hashnode.dev" target="_blank">blog</a>
-          </li>
 
           {% if site.search_enabled %}
             <li class="nav-item">
