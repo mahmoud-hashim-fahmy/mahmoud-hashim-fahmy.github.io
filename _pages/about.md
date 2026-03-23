@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: Software Engineering Student & GSoC Participant.
+subtitle: Software Engineering Student
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # سيجعل صورتك دائرية بشكل أنيق
-  more_info: >
-    <p>Software Engineering</p>
-    <p>South Valley University</p>
-    <p>Qena, Egypt</p>
+  more_info: ""
 
 selected_papers: false # تم إخفاء قسم الأبحاث
 social: false # تم تفعيل أيقونات التواصل
@@ -23,9 +20,9 @@ latest_posts:
   enabled: false # تم إخفاء قسم المقالات
 ---
 
-Hi there! 👋 I am **Mahmoud Hashim**, a university student deeply passionate about technology and problem-solving.
+Hi there! 👋 I am **Mahmoud Hashim**, a student @South Valley National University deeply passionate about technology and problem-solving.
 
-I am currently pursuing my studies in **Software Engineering** at South Valley University. My primary focus and enthusiasm lie in **Cloud Computing** and **Backend Development**, where I am constantly looking forward to deepening my understanding and building scalable solutions.
+I am currently pursuing my studies in **Software Engineering** at South Valley National University. My primary focus and enthusiasm lie in **Cloud Computing** and **Backend Development**, where I am constantly looking forward to deepening my understanding and building scalable solutions.
 
 Beyond my academic coursework, I am an active member of my university's **ICPC (International Collegiate Programming Contest)** team, which sharpens my algorithmic thinking. I am also actively participating in **Google Summer of Code (GSoC)**.
 
