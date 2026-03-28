@@ -37,3 +37,17 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+
+/* إجبار نصوص السيرة الذاتية على التكيف مع الوضع الليلي */
+html[data-theme='dark'] .cv table td,
+html[data-theme='dark'] .cv table th,
+html[data-theme='dark'] .cv .list-group-item,
+html[data-theme='dark'] .cv .card-body,
+html[data-theme='dark'] .cv {
+  color: var(--global-text-color) !important;
+  background-color: transparent !important;
+}
+
+html[data-theme='dark'] .cv a {
+  color: var(--global-theme-color) !important;
+}
