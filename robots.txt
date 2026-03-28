@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mahmoud-hashim-fahmy.github.io/sitemap.xml
+Sitemap: https://mahmoud-hashim-fahmy.is-a.dev/sitemap.xml
