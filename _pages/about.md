@@ -20,7 +20,7 @@ latest_posts:
   enabled: false # تم إخفاء قسم المقالات
 ---
 
-Hi there! 👋 I am **Mahmoud Hashim**, a student @South Valley National University deeply passionate about technology and problem-solving.
+Hi there! 👋 I am **Mahmoud Hashim Fahmy (محمود هاشم)**, a student @South Valley National University deeply passionate about technology and problem-solving.
 
 I am currently pursuing my studies in **Software Engineering** at South Valley National University. My primary focus and enthusiasm lie in **Cloud Computing** and **Backend Development**, where I am constantly looking forward to deepening my understanding and building scalable solutions.
 
